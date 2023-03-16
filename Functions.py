@@ -32,16 +32,3 @@ functionname5(1,2,3,4)
 def functionname6(**a):
     print(a)
 functionname6(height=5.6, weight=60)
-
-
-
-
-#orbitary parameters and Keyword parameters
-#Orbitary argument *, can give n number of parameters stored in Tuple
-#def orbitary(s):
-#return s
-#orbitary(1)
-
-
-
-
